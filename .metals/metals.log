@@ -1,0 +1,217 @@
+2026.03.03 02:37:17 INFO  Started: Metals version 1.6.5 in folders '/Users/vivekwagaj/IdeaProjects/PuneKar' for client Visual Studio Code 1.99.3.
+2026.03.03 02:37:17 INFO  Memory monitor started
+2026.03.03 02:37:17 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.03 02:37:17 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/CommentController.java. Using fallback presentation compiler.
+2026.03.03 02:37:18 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/CommentController.java. Using fallback presentation compiler.
+2026.03.03 02:37:30 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/CommentController.java
+2026.03.03 02:37:30 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/CommentController.java. Using fallback presentation compiler.
+2026.03.03 02:37:30 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/CommentController.java. Using fallback presentation compiler.
+2026.03.03 02:37:30 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/CommentController.java. Using fallback presentation compiler.
+2026.03.03 02:37:30 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/CommentController.java. Using fallback presentation compiler.
+2026.03.03 02:37:30 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/CommentController.java. Using fallback presentation compiler.
+2026.03.03 02:37:30 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/CommentController.java. Using fallback presentation compiler.
+2026.03.03 02:37:31 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/CommentController.java. Using fallback presentation compiler.
+2026.03.03 02:37:31 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/CommentController.java. Using fallback presentation compiler.
+2026.03.03 02:37:31 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/CommentController.java. Using fallback presentation compiler.
+2026.03.03 02:37:56 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/CommentController.java. Using fallback presentation compiler.
+2026.03.03 02:49:58 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/VerificationController.java. Using fallback presentation compiler.
+2026.03.03 02:49:58 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/VerificationController.java. Using fallback presentation compiler.
+2026.03.03 02:49:58 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/VerificationController.java. Using fallback presentation compiler.
+2026.03.03 02:49:58 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/VerificationController.java. Using fallback presentation compiler.
+2026.03.03 02:50:01 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/VerificationController.java. Using fallback presentation compiler.
+2026.03.03 02:50:19 INFO  Shutting down server
+2026.03.03 02:50:19 INFO  Memory monitor stopped
+2026.03.03 02:50:19 INFO  shutting down Metals
+2026.03.03 02:50:19 INFO  Exiting server
+2026.03.18 17:45:46 INFO  Started: Metals version 1.6.6 in folders '/Users/vivekwagaj/IdeaProjects/PuneKar' for client Visual Studio Code 1.110.1.
+2026.03.18 17:45:46 INFO  Memory monitor started
+2026.03.18 17:45:46 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.18 17:45:46 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+Mar 18, 2026 5:45:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.03.18 17:45:46 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+Mar 18, 2026 5:45:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2026.03.18 17:45:47 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 17:45:46 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+Mar 18, 2026 5:45:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.03.18 17:45:49 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java
+Mar 18, 2026 6:01:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 18, 2026 6:03:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.18 18:39:37 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:37 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java
+2026.03.18 18:39:37 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:37 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:37 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:37 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:40 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java
+2026.03.18 18:39:40 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:40 INFO  Created report: Optional[file:///Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java]
+2026.03.18 18:39:40 INFO  QDox parse error in file:///Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java (full report at: "/Users/vivekwagaj/IdeaProjects/PuneKar/.metals/.reports/metals-full/2026-03-18/r_qdox-error_18-39-40-117.md")
+2026.03.18 18:39:42 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:42 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:42 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:42 WARN  Running javac-semanticdb failed for file:///Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Output:
+
+2026.03.18 18:39:42 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:43 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:43 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:42 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:43 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:43 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:43 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:43 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:43 WARN  Running javac-semanticdb failed for file:///Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Output:
+
+2026.03.18 18:39:43 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:44 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:44 WARN  Running javac-semanticdb failed for file:///Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Output:
+
+2026.03.18 18:39:44 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:43 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java
+2026.03.18 18:39:43 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:44 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java
+2026.03.18 18:39:44 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:45 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:39:45 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/PuneKarApplication.java. Using fallback presentation compiler.
+2026.03.18 18:54:35 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/CorsConfig.java
+2026.03.18 18:54:35 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/CorsConfig.java. Using fallback presentation compiler.
+2026.03.18 18:54:35 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/CorsConfig.java
+2026.03.18 18:54:51 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/CorsConfig.java. Using fallback presentation compiler.
+2026.03.18 18:54:52 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/CorsConfig.java
+2026.03.18 18:54:52 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/CorsConfig.java. Using fallback presentation compiler.
+2026.03.18 18:54:51 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/CorsConfig.java. Using fallback presentation compiler.
+2026.03.18 18:55:07 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/CorsConfig.java. Using fallback presentation compiler.
+2026.03.18 18:55:12 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/CorsConfig.java. Using fallback presentation compiler.
+2026.03.18 18:55:14 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/CorsConfig.java
+2026.03.18 18:55:14 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/CorsConfig.java. Using fallback presentation compiler.
+2026.03.18 18:55:15 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/CorsConfig.java. Using fallback presentation compiler.
+2026.03.18 18:57:11 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/CorsConfig.java
+2026.03.18 18:57:11 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/CorsConfig.java. Using fallback presentation compiler.
+2026.03.18 18:58:42 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/SecurityConfig.java
+2026.03.18 18:58:42 WARN  Running javac-semanticdb failed for file:///Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/SecurityConfig.java. Output:
+
+2026.03.18 18:58:42 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/SecurityConfig.java. Using fallback presentation compiler.
+2026.03.18 18:58:42 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/CorsConfig.java. Using fallback presentation compiler.
+2026.03.18 18:58:42 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/SecurityConfig.java
+2026.03.18 18:58:42 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/CorsConfig.java. Using fallback presentation compiler.
+2026.03.18 18:59:32 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/SecurityConfig.java. Using fallback presentation compiler.
+2026.03.18 18:59:32 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/SecurityConfig.java
+2026.03.18 18:59:32 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/SecurityConfig.java. Using fallback presentation compiler.
+2026.03.18 18:59:32 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/SecurityConfig.java. Using fallback presentation compiler.
+2026.03.18 18:59:32 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/SecurityConfig.java. Using fallback presentation compiler.
+2026.03.18 18:59:37 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/SecurityConfig.java
+2026.03.18 18:59:37 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/SecurityConfig.java. Using fallback presentation compiler.
+2026.03.18 18:59:37 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/SecurityConfig.java. Using fallback presentation compiler.
+2026.03.18 18:59:37 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/SecurityConfig.java. Using fallback presentation compiler.
+2026.03.18 18:59:42 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/SecurityConfig.java. Using fallback presentation compiler.
+2026.03.18 19:01:07 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/SecurityConfig.java. Using fallback presentation compiler.
+2026.03.18 19:02:21 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/SecurityConfig.java. Using fallback presentation compiler.
+2026.03.18 19:03:00 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/SecurityConfig.java. Using fallback presentation compiler.
+2026.03.18 19:04:20 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java
+2026.03.18 19:04:25 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/service/AuthService.java
+2026.03.18 19:04:33 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/service/FirebaseTokenVerifier.java
+2026.03.18 19:05:18 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/FirebaseAdminConfig.java
+2026.03.18 19:05:18 WARN  Running javac-semanticdb failed for file:///Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/FirebaseAdminConfig.java. Output:
+
+2026.03.18 19:05:18 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/FirebaseAdminConfig.java. Using fallback presentation compiler.
+2026.03.18 19:05:18 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/FirebaseAdminConfig.java
+2026.03.18 19:06:04 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/FirebaseAdminConfig.java. Using fallback presentation compiler.
+2026.03.18 19:06:04 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/FirebaseAdminConfig.java
+2026.03.18 19:06:04 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/FirebaseAdminConfig.java. Using fallback presentation compiler.
+2026.03.18 19:06:04 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/FirebaseAdminConfig.java. Using fallback presentation compiler.
+2026.03.18 19:06:05 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/FirebaseAdminConfig.java. Using fallback presentation compiler.
+2026.03.18 19:06:19 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/FirebaseAdminConfig.java
+2026.03.18 19:06:19 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/FirebaseAdminConfig.java. Using fallback presentation compiler.
+2026.03.18 19:06:19 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/FirebaseAdminConfig.java. Using fallback presentation compiler.
+2026.03.18 19:06:48 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/FirebaseAdminConfig.java. Using fallback presentation compiler.
+2026.03.18 19:07:20 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:07:25 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/service/AuthService.java. Using fallback presentation compiler.
+2026.03.18 19:07:33 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/service/FirebaseTokenVerifier.java. Using fallback presentation compiler.
+2026.03.18 19:08:47 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java
+2026.03.18 19:08:47 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:08:47 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/FirebaseAdminConfig.java. Using fallback presentation compiler.
+2026.03.18 19:08:47 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java
+2026.03.18 19:08:47 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/FirebaseAdminConfig.java. Using fallback presentation compiler.
+2026.03.18 19:08:54 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:08:54 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java
+2026.03.18 19:08:55 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/FirebaseAdminConfig.java. Using fallback presentation compiler.
+2026.03.18 19:09:10 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:09:11 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:09:11 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java
+2026.03.18 19:09:11 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/config/FirebaseAdminConfig.java. Using fallback presentation compiler.
+2026.03.18 19:09:13 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:09:25 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:09:25 WARN  no build target for: /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java
+2026.03.18 19:09:25 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:09:25 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:09:25 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:09:25 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:09:25 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:09:27 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:09:32 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:09:39 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:09:39 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:09:41 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:09:41 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:09:41 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:10:48 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:11:08 INFO  Shutting down server
+2026.03.18 19:11:08 INFO  Memory monitor stopped
+2026.03.18 19:11:08 INFO  shutting down Metals
+2026.03.18 19:11:08 INFO  Exiting server
+2026.03.18 19:16:21 INFO  Started: Metals version 1.6.6 in folders '/Users/vivekwagaj/IdeaProjects/PuneKar' for client Visual Studio Code 1.111.0.
+2026.03.18 19:16:21 INFO  Memory monitor started
+2026.03.18 19:16:21 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.18 19:16:21 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+Mar 18, 2026 7:16:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.18 19:16:21 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:16:22 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+Mar 18, 2026 7:16:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Mar 18, 2026 7:16:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.18 19:16:21 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+Mar 18, 2026 7:16:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2026.03.18 19:16:21 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:16:23 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+Mar 18, 2026 7:16:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 18, 2026 7:16:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 18, 2026 7:16:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 18, 2026 7:16:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 18, 2026 7:16:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.18 19:16:27 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+Mar 18, 2026 7:16:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 18, 2026 7:16:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 18, 2026 7:16:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+2026.03.18 19:16:27 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+Mar 18, 2026 7:16:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.18 19:16:28 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+Mar 18, 2026 7:16:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+2026.03.18 19:16:28 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:16:28 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:16:28 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+Mar 18, 2026 7:16:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+Mar 18, 2026 7:16:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+2026.03.18 19:16:32 INFO  no build target found for /Users/vivekwagaj/IdeaProjects/PuneKar/src/main/java/org/punekar/controller/AuthController.java. Using fallback presentation compiler.
+2026.03.18 19:16:49 INFO  Shutting down server
+2026.03.18 19:16:49 INFO  Memory monitor stopped
+2026.03.18 19:16:49 INFO  shutting down Metals
+2026.03.18 19:16:49 INFO  Exiting server
